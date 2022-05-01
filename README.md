@@ -11,4 +11,9 @@
   
   mkdir docker
   cd /docker
-  
+  git clone https://github.com/davidpebe78/Portainer.git
+  docker-compose up -d
+
+WebUI: http://[IPmaquina]:9000
+
+Con esto creamos usuario y contraseña admin; y a disfrutar.

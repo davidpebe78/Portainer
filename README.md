@@ -5,7 +5,7 @@
 
  Requisitos Previos
 
-    Instalar [Docker y Docker-compose](https://github.com/davidpebe78/Docker-Install)
+Instalar [Docker y Docker-compose](https://github.com/davidpebe78/Docker-Install)
 
  Para instalar Portainer en nuestro sistema, crearemos un contenedor Docker utilizando la herramienta Docker Compose. Creamos la carpeta donde guardaremos nuestros contenedores.
   
